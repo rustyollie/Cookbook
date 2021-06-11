@@ -1,2 +1,2 @@
 # Cookbook
-List of my recipes 
+This is a list of my favorite recipes. Yum.
