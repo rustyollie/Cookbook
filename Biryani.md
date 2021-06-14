@@ -27,7 +27,7 @@ sweet: ✓
 * `2` Cups Peas *Optional - can sub veg of choice eg. fried eggplant*
 * `1` Cup Yogurt 
 * `1` Cup Cilantro
-* `1` Cup Dried Mint
+* `1/2` Cup Dried Mint
 
 ### Spices
 * Biryani Spices (2 tablespoons)
