@@ -23,7 +23,7 @@ sweet: ✓
 * `2` Tomatoes **Diced**
 * `1` Tablespoon Tomato Paste
 * `2` Cups Carrots **Diced**
-* `2` Large Potatoes **Cubed**
+* `1` Large Potato **Cubed**
 * `2` Cups Peas *Optional - can sub veg of choice eg. fried eggplant*
 * `1` Cup Yogurt 
 * `1` Cup Cilantro
