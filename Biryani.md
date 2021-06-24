@@ -42,6 +42,17 @@ sweet: ✓
 
 ---
 
+If boiling lamb (recommended), then boil with 
+* Cardamom
+* Cinnamon Stick
+* Bay Leaves
+* Onion
+* Peppercorn
+* Cloves *optional*
+* Salt and Pepper
+
+---
+
 2. Brown Onions. Add garlic and ginger if chicken. 
 
 ---
