@@ -1,20 +1,5 @@
-# Biryani
+# carrot cake
 
-
-<!-- ---
-title: Basque Burnt Cheescake
-category: Baking
-description: 
-image: basque.jpg
-size: 1 10" Cake
-time: 1.5 hour
-author: Molly Baz
-source: https://www.bonappetit.com/recipe/basque-burnt-cheesecake
-veggie: ✓
-sweet: ✓
---- -->
-
-## Ingredients per Chicken or Lamb Equivalent 
 
 * `4` Eggs
 * `1.5` Cup of Oil
@@ -31,6 +16,8 @@ sweet: ✓
 ---
 
 1. Mix ingredients in a bowl starting with Eggs and moving down the list one by one
+2. Eventually use spatula as mixture thickens 
+2. Layer carrot mix and cream filling very slowly, do not pour 
 2. Oil baking pan (and add some flour) or line with parchment paper to prevent sticking
 3. Preheat oven to 180C
 4. Cook in oven for 35-45 mins
