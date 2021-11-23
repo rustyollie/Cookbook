@@ -35,4 +35,16 @@ sweet: ✓
 3. Preheat oven to 180C
 4. Cook in oven for 35-45 mins
 5. 
-### Pro tips
+### Cream Filling
+
+* '2' Cups of water 
+* '1' Cup Nido powder
+* '2' Table spoon cornstarch
+* '3' Full cream packets 
+
+1. Mix water, Nido, and cornstarch into pot 
+2. Heat over stove, mix well until thick
+3. Add cream, mix, let cool
+
+
+
