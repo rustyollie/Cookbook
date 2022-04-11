@@ -23,7 +23,8 @@
 3. Add tomato, and 1 tablespoons of tomato paste with a tablespoon of pomegranate molasses and tamarind 
 4. Mix Yogurt, lemon juice, salt, and tahini into bowl, set aside
 5. Layer bottom of baking dish with bread, layer on top the eggplant, the layer again with ground beef, then yogurt sauce
-6. Serve
+6. Add roasted pine nuts and a splash of ghee on top
+7. Serve
  
 
 
