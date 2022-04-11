@@ -1,5 +1,5 @@
 
-# Moussaka
+# Fatat Magdoos
 
 ## Ingredients
 
@@ -15,7 +15,7 @@
 * Lemon Juice
 * Tamarind (optional)
 
-
+## Instructions
 
 1. Cut eggplant into slices and deep fry until golden brown, set aside
 2. Cut arabic bread into squares and deep fry until golden brown, set aside
