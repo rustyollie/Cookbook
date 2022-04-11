@@ -15,9 +15,7 @@
 * Lemon Juice
 * Tamarind (optional)
 
-## Spices
-* Cayenne 
-* Onion Powder
+
 
 1. Cut eggplant into slices and deep fry until golden brown, set aside
 2. Cut arabic bread into squares and deep fry until golden brown, set aside
