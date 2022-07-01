@@ -32,6 +32,11 @@ sweet: ✓
 * `3` Cups of Flour
 * `0.75` Tablespoon of baking powder
 
+Tips:
+* Coat hands with oil to prevent dough sticking on hand
+* Add more flour or olive oil if dough is sticky
+* Fold dough into iteslf so that it becomes a ball
+
 3. Make into dough
 4. Coat with thin layer of olive oil before leaving to raise
 5. Cover bowl with plastic wrap and make sure no air is leaving
