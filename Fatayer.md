@@ -18,13 +18,13 @@ sweet: ✓
 ## Ingredients
 
 * `1` Tablespoon Yeast (Or one packet)
-* `0.75` Cup of hot water + `0.25` Cup of milk
+*  1 Cup of milk (warm)
 * `1` Tablespoon of Sugar
 
 1. Mix above ingredients into bowl, then add below ingredients one by one
 
 * `1/6` Cups of Olive Oil
-* `2` Tablespoon Nido OR `1` Cup of milk
+* `2` Tablespoon Nido OR `1` Cup of milk (warm)
 * `1` Tablespoon Yogurt 
 * `2` Tablespoon Cream (Gishta, Can subsitute with yogurt if not available
 
