@@ -12,18 +12,31 @@ Yield:
 
 
 *1tablespoon vegetable oil
+
 *3tablespoons butter plus 1 tablespoon for tossing the pasta
+
 *½cup chopped onion
+
 *⅔cup chopped celery
+
 *⅔cup chopped carrot
+
 *¾pound ground beef chuck (or you can use 1 part pork to 2 parts beef)
+
 *Salt
+
 *Black pepper, ground fresh from the mill
+
 *1cup whole milk
+
 *Whole nutmeg
+
 *1cup dry white wine
+
 *1½cups canned imported Italian plum tomatoes, cut up, with their juice
+
 *1¼ to 1½pounds pasta
+
 *Freshly grated parmigiano-reggiano cheese at the table
 
 
